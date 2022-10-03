@@ -1,0 +1,47 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/anthony/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/ackermann_steering_controller/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_control/combined_robot_hw/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_control/combined_robot_hw_tests/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/control_toolbox/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_control/controller_interface/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_control/controller_manager/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_control/controller_manager_tests/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/diff_drive_controller/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/effort_controllers/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/force_torque_sensor_controller/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/forward_command_controller/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/four_wheel_steering_controller/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/gripper_action_controller/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_control/hardware_interface/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/imu_sensor_controller/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_control/joint_limits_interface/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/joint_state_controller/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/joint_trajectory_controller/include/**",
+        "/home/anthony/catkin_ws/src/main_script/include/**",
+        "/home/anthony/catkin_ws/src/model/include/**",
+        "/home/anthony/catkin_ws/src/Sim_openGL_robot/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/position_controllers/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/realtime_tools/include/**",
+        "/home/anthony/catkin_ws/src/robot_state/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_control/transmission_interface/include/**",
+        "/home/anthony/catkin_ws/src/ros_control/ros_controllers/velocity_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
